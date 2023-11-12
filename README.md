@@ -1,4 +1,3 @@
-#text-analysis.py
 #based on the previous code (of cleaning) we are going to analyze the text 
 # 1) Word Frequency Analysis (Counting how often each word appears in a text). 
 
